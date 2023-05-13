@@ -1,13 +1,15 @@
-- date: Mar.2022 - present
+- date: Mar. 2022 - <strong>present</strong>
   name: Web Security & Privacy Lab
   school: KAIST
+  position: Master's Student
   advisor: Sooel Son
-  link: https://sites.google.com/site/ssonkaist/
+  link: https://wsp-lab.github.io/
+  research: <i class="fa fa-regular fa-heart"></i> Web Security, Machine Learning
 
-
-- date: Aug.2020 - Sep.2021
+- date: Aug. 2020 - Sep. 2021
   name: Information Communication Security Lab
   school: Ajou University
+  position: Undergraduate Research Intern
   advisor: Taeshik Shon
-  link: http://ics.ajou.ac.kr/
-
+  link: https://ics.ajou.ac.kr/
+  research: <i class="fa fa-regular fa-heart"></i> Digital Forensics, File System
