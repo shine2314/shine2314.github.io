@@ -1,0 +1,6 @@
+- title: "RICC: Robust Collective Classification of Sybil Accounts"
+  authors: <strong>Dongwon Shin*</strong>, Suyoung Lee*, and Sooel Son.
+  venue: <strong>WWW 2023</strong>
+  link: /papers/shin-www23.pdf
+  bib: /bibtex/shin-www23.bib
+  code: https://github.com/WSP-LAB/RICC

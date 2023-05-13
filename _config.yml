@@ -1,0 +1,36 @@
+# Site settings
+title: Dongwon Shin
+description: Dongwon Shin / 신동원. Master's student @KAIST WSP Lab.
+url: https://godeastone.github.io
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+
+timezone:          Asia/Seoul
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+sass:
+  sass_dir: _sass
+
+# User settings
+username: Dongwon Shin
+user_title: Security Researcher
+user_description: >
+  I am a master's student <a href="https://wsp-lab.github.io/" target="_blank">
+  @KAIST WSP Lab</a>. My primary research interests lie in various attacks and
+  defenses against web sites providing privacy-sensitive services. In
+  particular, I am interested in securing web services by leveraging machine
+  learning.
+email: dongwon.shin@kaist.ac.kr
+# twitter: leeswimming
+github: godeastone
+# facebook: leeswimming
+# gplus_username:  lorem_ipsum

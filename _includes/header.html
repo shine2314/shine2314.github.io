@@ -1,0 +1,17 @@
+<div class="cover-card table-cell table-bottom">
+  <h1>
+    <span class="site-title"><a href="/">{{site.username}}</a></span>
+  </h1>
+  <p class="body">{{site.user_title}}</span>
+  <div class="header-icons body">
+    <a aria-label="Send email" target="_blank" href="mailto: {{site.email}}">
+      <i class="icon fa fa-envelope"></i>
+    </a>
+    <a aria-label="My Github" target="_blank" href="https://github.com/{{site.github}}">
+      <i class="icon fa fa-github" aria-hidden="true"></i>
+    </a>
+  </div>
+  <p class="body copyright">
+    &copy; {{'now'|date: "%Y"}}. All rights reserved.
+  </p>
+</div>
